@@ -2,9 +2,9 @@
 Personal statistics of programming languages
 # Hi there! I'm Emilio 🙋‍♂️
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Emidihoy&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Emdihoy&show_icons=true&theme=radical" />
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emidihoy&layout=compact" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emdihoy&layout=compact" />
 
 ## Programming Languages
 
